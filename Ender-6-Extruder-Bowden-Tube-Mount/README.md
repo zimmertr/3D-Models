@@ -12,7 +12,7 @@ Thingiverse Link: https://www.thingiverse.com/thing:7070587
 
 <p>
     <center>
-        <img src="model.png" width="500"/>
+        <img src="image.png" width="500"/>
     </center>
 </p>
 
