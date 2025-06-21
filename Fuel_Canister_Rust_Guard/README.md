@@ -31,6 +31,7 @@ Thingiverse Link: https://www.thingiverse.com/thing:7072416
         <img src="photo_guard_attached.jpg" width="500"/>
         <img src="photo_rust_ring.jpg" width="500"/>
         <img src="photo_pot_insert.jpg" width="500"/>
+        <img src="photo_scale.jpg" width="500"/>
         <img src="photo_pot_interior.jpg" width="500"/>
         <img src="photo_size_comparison_2.jpg" width="500"/>
         <img src="photo_size_comparison_1.jpg" width="500"/>
