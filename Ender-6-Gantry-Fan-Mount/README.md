@@ -1,4 +1,4 @@
-# Ender 6 Extruder Bowden Tube Mount
+# Ender 6 Gantry Fan Mount
 
 ## Summary
 
