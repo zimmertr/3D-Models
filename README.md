@@ -14,7 +14,7 @@ A collection of my makes can be found on Thingiverse here: https://www.thingiver
     <center>
         <img src="Loowit_50K/image.png" width="500"/>
         <img src="Whynter_ARC-14S_Air_Conditioner_Redirector/image_down.png" width="500"/>
-        <img src="Fuel_Canister_Rust_Guard/image_down.png" width="500"/>
+        <img src="Fuel_Canister_Rust_Guard/image.png" width="500"/>
         <img src="Ender-6-Extruder-Bowden-Tube-Mount/image.png" width="500"/>
         <img src="Ender-6-Gantry-Fan-Mount/image.png" width="500"/>
         <img src="Caldigit_TS3_Plus_PSU_Mounting_Bracket/image.png" width="500"/>
