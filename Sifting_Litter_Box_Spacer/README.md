@@ -10,6 +10,8 @@ I designed this part to accomplish the same thing. It simply rests in the bottom
 
 I have split the model into two bodies so that it can be printed on my Ender 6 and designed it with pins that slide into one another so you can glue them together afterwards. I uploaded both a 15mm and 30mm variant which adjusts both the height of the spacer as well as the length of the pins. You can find further parameters in the Fusion 360 files to configure it yourself as well. A taller spacer is more ideal, but my litter box is located within a small piece of furniture so making it too tall would make it harder for my cats to enter the space.
 
+Supports are required for the pin holes but this model should otherwise be easy to print on most devices.
+
 Thingiverse Link: https://www.thingiverse.com/thing:12345678
 
 <hr>
