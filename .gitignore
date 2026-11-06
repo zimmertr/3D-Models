@@ -1,6 +1,2 @@
 # MacOS
 .DS_Store
-
-# Fusion 360 backups and slicer output
-*.f3d.bak
-*.gcode
