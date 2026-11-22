@@ -33,13 +33,3 @@ Thingiverse Link: https://www.thingiverse.com/thing:12345678
         <img src="image_parameters.png" width="500"/>
     </center>
 </p>
-
-<hr>
-
-## Print Photos
-
-<p>
-    <center>
-        <img src="photo_15mm.jpg" width="500"/>
-    </center>
-</p>
