@@ -15,7 +15,7 @@ This repo took a trimmed set of the files a new project starts with (zimmertr/yg
 File issues with the `create-issue` skill from zimmertr/ai-config: the two-sentence summary, the six sections, the hemingway and humanizer passes, one priority, one type, the area labels and the session label. The skill reads the four things below from this section.
 
 - **The reader**: TJ, who designs and prints the models and knows Fusion 360.
-- **The gates**: `PR Title / PR Title` and the three `Lint /` checks pass; the README changes only to stay accurate.
+- **The gates**: `PR Title / PR Title` and the five `Lint /` checks pass; the README changes only to stay accurate.
 - **The constraints**: no secrets in the repo; the PR title is `type(scope): summary`.
 - **The areas**: `models` (a model's folder), `ci` (the workflows and Renovate), `security`.
 
@@ -23,4 +23,4 @@ File issues with the `create-issue` skill from zimmertr/ai-config: the two-sente
 
 - Work in a fresh clone in the session's scratchpad, never in TJ's checkout. Branch from the latest `origin/main`.
 - Everything reaches main through a squash-merged PR. Never push to main.
-- CI runs on zimmertr/yggdrasil's `pr-title` and `lint` modules, pinned by commit SHA with the version beside it. Renovate bumps the pin, and a patch or minor merges itself.
+- CI runs on zimmertr/yggdrasil's `pr-title`, `lint` and `scorecard` modules, pinned by commit SHA with the version beside it. Renovate bumps the pin, and a patch or minor merges itself.
